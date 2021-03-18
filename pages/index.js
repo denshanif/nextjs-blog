@@ -24,7 +24,11 @@ export default function Home({ allPostsData }) {
         <p>Hello, my name is Hanif Al Fathoni, you can call me Hanif.</p>
         <p>
           This is my blog that i build using{' '}
-          <a href="https://nextjs.org/">Next.js</a>.)
+          <a href="https://nextjs.org/" target="_blank">Next.js</a>.
+        </p>
+        <p>
+          Visit my personal website{' '}
+          <a href="https://denshanif.my.id" target="_blank">here</a>.
         </p>
       </section><section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
